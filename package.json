@@ -39,7 +39,7 @@
     },
     "homepage": "https://github.com/4ver/node-auto-launch",
     "dependencies": {
-        "applescript": "^0.2.1",
+        "applescript": "https://github.com/JorritPosthuma/node-applescript/tarball/master",
         "winreg": "0.0.12",
         "mkdirp": "0.5.1",
         "untildify": "2.1.0"
